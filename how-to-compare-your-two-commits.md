@@ -1,6 +1,6 @@
 # How to view the comparison
 
-Yesterday I start to practise writing on github, but I found there was something strange of taking review of the comparison. It was taken by a whole stuck view, but not by each word view. Td, so today I will find the right way to use the feature.
+Yesterday I start to practise writing on github, but I found there was something strange of taking review of the comparison. It was taken by a whole block view, but not by each word view. Td, so today I will find the right way to use the feature.
 (This made me puzzled,)
 For test:  
 
