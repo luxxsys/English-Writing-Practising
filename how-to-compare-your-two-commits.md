@@ -18,6 +18,7 @@ Oh! I got it. Now I will make a short summary to the steps.
 3. Finishing the changes and then commit as usual;
 4. If you want to check the comparison of these two commits, click the doc file and then click the 'history' to enter a view;
 5. Clicking the commit serial number of the latest commit, then you will be there for the comparison view;
-6. (I suggest you to select the '' view, it will be clearer than the 'split' view in my personal perspective.)
+6. (I suggest you to select the 'unified' view, it will be clearer than the 'split' view in my personal perspective.)
 
-
+Look at it, it's very beautiful and clear, isn't it?
+![](https://goo.gl/photos/9REzXnJscrH53AtF8)
