@@ -21,4 +21,4 @@ Oh! I got it. Now I will make a short summary to the steps.
 6. (I suggest you to select the 'unified' view, it will be clearer than the 'split' view in my personal perspective.)
 
 Look at it, it's very beautiful and clear, isn't it?
-![](https://photos.google.com/share/AF1QipPqW5olM7Pnga1EHhSeJAVbEM21_2zH-_UAkbtRVfLDLCwn35dbNTnn7UGlwBJSjw/photo/AF1QipNoxtvcvwnsojUKkvzBQPaWvo__2Peg-W4cYD1q?key=OG5qemRpTC1NODdKdFJCWnQyTWF2aUEyNzA0QkR3)
+![](https://lh3.googleusercontent.com/PbNLaqQ45k3aIpj3awbI1saZ56c46MJ2ZQtJr2KzFM20FsugWmlLpH5wkrj12lLtqxKWKyMeW81Fv1BH0BgdW1fombsebXGR7XqcBkAl4Fcz75DlZR-b4KL1E-SKRNEC9eLkvPWqI_8vzYnI6P41mFdlkH2yehi3ORpe1r7KD6PoKeYJtoVvU6Nc1Idf9HKnmxUs4j1XgIzYgFX8QGFomIST_QxuwmWnqh9X35hJSSuShdxdIwfFMGDrxYQ5pdP4qQ0FpK58rVysTClodXEx61JXZ8vDQKRyh81m9gCoekL5NWOI1LLud8dKlsnNiAYw6fg6QoYs244qD15ZQx7uzhtBryxpY2EM9JGmqYknkUlGw7MXqoyUJoiY7HQg4XV2gyV-jiJnYZ1uATtGc1tu0q4-wxCnT-WYcYuUTcXjRSOe5QtXR-mBiliztJJxXaN6MIRq_9mWZftQ5_6k3B0RTsNi9MIjNe00StrkP4oOamXZn684fsKMYOk6qeC-iycvnSVcgUr42EUbpZd-ya872ckbtEo1WPLFkbv4S2eFP_kT_AZpS-dG_D_JjYDKYqNTjKC69Lqwi1-kGZkaNCF5WHeuoAfrMatYwWb1KxAUXKDX6NJcu8LPZILPkOMgw7QK7ZpYzkRJdoFKSA1t8zJfN1_RM-shLPK3_cekCo1DWg=w1227-h561-no)
